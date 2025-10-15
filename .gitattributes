@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * text=auto
 
 *.blade.php diff=html
@@ -9,3 +10,7 @@
 /.github export-ignore
 CHANGELOG.md export-ignore
 .styleci.yml export-ignore
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+>>>>>>> 8a548328dcc7d4afb30cb088221a7617270c5ba2
